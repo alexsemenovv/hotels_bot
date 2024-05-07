@@ -1,0 +1,15 @@
+venv/
+.env
+.idea/
+__pycache__/
+config_data/__pycache__/
+database/__pycache__/
+handlers/__pycache__/
+handlers/custom_handlers/__pycache__/
+handlers/default_handlers/__pycache__/
+request_to_api/__pycache__/
+states/__pycache__/
+test.json
+utils/__pycache__/
+logs/
+database/database.db
